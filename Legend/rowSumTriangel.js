@@ -20,7 +20,7 @@
     [EXAMPLE]
     rowSumTriangle(4)
     dibaris 4 terdapat angka :
-    11 + 13 + 15 + 17 = 64
+    13 + 15 + 17 + 19 = 64
     output: 64 
 
     rowSumTriangle(27)
