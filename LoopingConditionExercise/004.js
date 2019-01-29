@@ -34,8 +34,9 @@
 function trapesiumRelease0(t) {
     // your code here 
 }
-/* 
+
 trapesiumRelease0(5)
+/* 
 ooooo
 oooooo
 ooooooo

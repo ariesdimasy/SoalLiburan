@@ -1,2 +1,3 @@
 # SoalLiburan
-soal soal js phase 0 dikerjakan selama libur lebaran 2 minggu 
+
+soal soal logic js, untuk bahan latihan 
