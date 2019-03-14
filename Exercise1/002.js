@@ -26,5 +26,5 @@ console.log([ ['Aries','Dimas',['coding','pubg','anime'],'Web Developer'] ,
 
 */ 
 
-console.log([ ['Awtian','Akbar',['coding','main kucing','anime'],'Web Instructur'] , 
-['Megalo','Maniak',['metal music','maniac'],'Maniac Expert'] ]);
+console.log(soal2([ ['Awtian','Akbar',['coding','main kucing','anime'],'Web Instructur'] , 
+['Megalo','Maniak',['metal music','maniac'],'Maniac Expert'] ]));
